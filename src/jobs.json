@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "df1f",
+      "title": "Internship - Web Developer",
+      "type": "Internship",
+      "location": "Philippines",
+      "description": "• HTML\n• CSS\n• JavaScript",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Scam Tech Inc.",
+        "description": "We do monkey business",
+        "contactEmail": "scammer123@gmail.com",
+        "contactPhone": "09192124611"
+      }
     }
   ]
 }
